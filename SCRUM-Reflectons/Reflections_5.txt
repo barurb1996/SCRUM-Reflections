@@ -1,0 +1,12 @@
+Sortowanie backlogu powinno zawierać następujące operacje:
+
+Analizę i doprecyzowanie wymagań na nadchodzące Sprinty, żeby uniknąć niespodzianek w trakcie Planowania Sprintu;
+Ponowną priotytetyzację i zmianę kolejności Elementów Backlogu Produktu;
+Podział Elementów, które są za duże do zrobienia w trakcie jednego Sprintu;
+Łączenie Elementów, których nie będziecie teraz robić, żeby nie zaciemniały obrazu całego Backlogu;
+Usuwanie niepotrzebnych Elementów, bo zawsze będziecie mieli więcej pomysłów niż czasu na ich realizację;
+Generowanie nowych pomysłów;
+Przygotowanie eksperymentów;
+Szacowanie Elementów;
+Patrzenie krótko i długoterminowo na cały Backlogu. Omówienie nadchodzących wydań i mapy drogowej;
+Analiza różnych możliwości rozwoju produktu (what-if).
